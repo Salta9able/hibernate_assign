@@ -27,7 +27,7 @@ public class Main {
         }
 
         //Таблицанын маалыматтарын очуруу
-       // u.cleanUsersTable();
+       u.cleanUsersTable();
 
         //Таблицаны очуруу
         //u.dropUsersTable();
